@@ -11,7 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           
-  <img align="right" alt="anime" height="150" style="border-radius:50px;" src="https://www.google.com/search?q=ayanokoji+gif+4k&biw=393&bih=719&tbm=isch&prmd=ivn&sxsrf=APwXEdfpGTd2TwNFW8SayI1kPJAxegRS_w:1681703088026&source=lnms&sa=X&ved=0ahUKEwiMtLeZgLD-AhXFpZUCHQ-jAYUQ_AUIGSgB#imgrc=zMjpx3yisuzqQM&lnspr=W10=">
+  
 </div>
  
  <br>
